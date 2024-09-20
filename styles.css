@@ -1,0 +1,118 @@
+.h3 {
+    text-align: center; /* Centers the text content */
+    padding: 20px;
+    max-width: 800px; /* Optional: restricts the text width for better readability */
+    margin: 0 auto; /* Centers the section on the page */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.Certificate-photo {
+    display: block;
+    margin: 20px auto; /* Centers the image horizontally */
+    width: 500px; /* Adjust the width as needed */
+    height: 500px;
+    border-radius: 0%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales properly inside the circle */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow around the image */
+}    
+.education-photo {
+    display: block;
+    margin: 20px auto; /* Centers the image horizontally */
+    width: 500px; /* Adjust the width as needed */
+    height: 500px;
+    border-radius: 0%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales properly inside the circle */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow around the image */
+}    
+.about-photo {
+    display: block;
+    margin: 20px auto; /* Centers the image horizontally */
+    width: 500px; /* Adjust the width as needed */
+    height: 500px;
+    border-radius: 0%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales properly inside the circle */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow around the image */
+}
+.profile-photo {
+    display: block;
+    margin: 20px auto; /* This centers the image horizontally */
+    width: 200px; /* Adjust the width as needed */
+    height: 200px;
+    border-radius: 0%; /* This makes the image circular */
+    object-fit: cover; /* Ensures the image is scaled properly inside the circle */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow around the image */
+}
+p {
+    text-align: center; /* Centers the text content */
+    padding: 20px;
+    max-width: 800px; /* Optional: restricts the text width for better readability */
+    margin: 0 auto; /* Centers the section on the page */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+/* Optional: Center the section content including the text */
+#personal-info {
+    text-align: center;
+    padding: 40px;
+}
+/* For All Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e8e2c8;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2b392d;
+    font-weight: bold;
+}
+
+#hero {
+    background-image: url('m321001a.jpeg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#hero h1 {
+    font-size: 48px;
+    color: #4a633b;
+    margin: 0;
+}
+
+#hero p {
+    font-size: 24px;
+    color: #4a633b;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: #4a633b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
